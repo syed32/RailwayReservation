@@ -2,26 +2,12 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="main.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="83" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="conio.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="674" topLine="3" />
-		</Cursor>
-		<Folding>
-			<Collapse line="20" />
-			<Collapse line="36" />
-		</Folding>
-	</File>
 	<File name="rlyres.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="880" topLine="23" />
+			<Cursor1 position="813" topLine="0" />
 		</Cursor>
 		<Folding>
-			<Collapse line="12" />
+			<Collapse line="4" />
 		</Folding>
 	</File>
 	<File name="conio2.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -29,14 +15,45 @@
 			<Cursor1 position="351" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="rlyres.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+	<File name="rlyres.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="9887" topLine="46" />
+			<Cursor1 position="22273" topLine="30" />
 		</Cursor>
 		<Folding>
 			<Collapse line="7" />
 			<Collapse line="26" />
 			<Collapse line="49" />
+			<Collapse line="82" />
+			<Collapse line="105" />
+			<Collapse line="330" />
+			<Collapse line="342" />
+			<Collapse line="369" />
+			<Collapse line="384" />
+			<Collapse line="412" />
+			<Collapse line="452" />
+			<Collapse line="495" />
+			<Collapse line="540" />
+			<Collapse line="586" />
+			<Collapse line="625" />
+			<Collapse line="652" />
+			<Collapse line="686" />
+			<Collapse line="750" />
+			<Collapse line="757" />
+			<Collapse line="867" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="148" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="conio.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="356" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="20" />
+			<Collapse line="36" />
 		</Folding>
 	</File>
 </CodeBlocks_layout_file>
